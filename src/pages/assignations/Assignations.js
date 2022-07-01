@@ -34,38 +34,10 @@ const Assignations = () => {
                                                 <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>1</strong></td>
                                                 <td>Albert Cook</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Albertine De SOUZA
                                                 </td>
-                                                <td><span class="badge bg-label-primary me-1">Active</span></td>
-                                                <td><span class="badge bg-label-primary me-1">Active</span></td>
+                                                <td><span class="badge bg-label-primary me-1">Anani S.</span></td>
+                                                <td><span class="badge bg-label-primary me-1">Organisation 3</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
@@ -86,38 +58,10 @@ const Assignations = () => {
                                                 <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>2</strong></td>
                                                 <td>Barry Hunter</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Julien T.
                                                 </td>
-                                                <td><span class="badge bg-label-success me-1">Completed</span></td>
-                                                <td><span class="badge bg-label-success me-1">Completed</span></td>
+                                                <td><span class="badge bg-label-success me-1">James A</span></td>
+                                                <td><span class="badge bg-label-success me-1">Organisation 2</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
@@ -138,38 +82,10 @@ const Assignations = () => {
                                                 <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>3</strong></td>
                                                 <td>Trevor Baker</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Nusuvio Armandine
                                                 </td>
-                                                <td><span class="badge bg-label-info me-1">Scheduled</span></td>
-                                                <td><span class="badge bg-label-info me-1">Scheduled</span></td>
+                                                <td><span class="badge bg-label-info me-1">Christopher Y.</span></td>
+                                                <td><span class="badge bg-label-info me-1">Organisation 4</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
@@ -192,38 +108,10 @@ const Assignations = () => {
                                                 </td>
                                                 <td>Jerry Milton</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Ablavi Martine
                                                 </td>
-                                                <td><span class="badge bg-label-warning me-1">Pending</span></td>
-                                                <td><span class="badge bg-label-warning me-1">Pending</span></td>
+                                                <td><span class="badge bg-label-warning me-1">Keynote G.</span></td>
+                                                <td><span class="badge bg-label-warning me-1">Organisation 3</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">

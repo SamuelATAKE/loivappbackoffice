@@ -3,6 +3,7 @@ import Home from './pages/Home';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Organisations from './pages/organisations/Organisations';
 import TeleOperateurs from './pages/teleoperateurs/TeleOperateurs';
+import Utilisateurs from './pages/utilisateurs/Utilisateurs';
 import Declarations from './pages/declarations/Declarations';
 import Assignations from './pages/assignations/Assignations';
 import AddOrganisation from './pages/organisations/AddOrganisation';
@@ -16,7 +17,7 @@ function App() {
         <Route index path="/ajouter-organisation" element={<AddOrganisation />} />
 
         <Route index path="/tele-operateurs" element={<TeleOperateurs />} />
-        <Route index path="/utilisateurs" element={<TeleOperateurs />} />
+        <Route index path="/utilisateurs" element={<Utilisateurs />} />
 
         <Route index path="/declarations" element={<Declarations />} />
         <Route index path="/ajouter-declaration" element={<AddDeclaration />} />

@@ -14,7 +14,7 @@ const TeleOperateurs = () => {
                     <NavBar />
                     <div className="content-wrapper">
                         <div class="container-xxl flex-grow-1 container-p-y">
-                        <h4 class="fw-bold py-3 mb-4"><a href="/teleoperateurs"><span class="text-muted fw-light">Administration /</span> Télé-opérateurs</a></h4>
+                            <h4 class="fw-bold py-3 mb-4"><a href="/teleoperateurs"><span class="text-muted fw-light">Administration /</span> Télé-opérateurs</a></h4>
                             <div class="card">
                                 <h5 class="card-header">Les télé-opérateurs</h5>
                                 <div class="table-responsive text-nowrap">
@@ -33,37 +33,9 @@ const TeleOperateurs = () => {
                                                 <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>1</strong></td>
                                                 <td>Albert Cook</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    albertcook@gmail.com
                                                 </td>
-                                                <td><span class="badge bg-label-primary me-1">Active</span></td>
+                                                <td><span class="badge bg-label-primary me-1">96321458</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
@@ -84,37 +56,9 @@ const TeleOperateurs = () => {
                                                 <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>2</strong></td>
                                                 <td>Barry Hunter</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    barryhunter@yahoo.fr
                                                 </td>
-                                                <td><span class="badge bg-label-success me-1">Completed</span></td>
+                                                <td><span class="badge bg-label-success me-1">98653214</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
@@ -135,37 +79,9 @@ const TeleOperateurs = () => {
                                                 <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>3</strong></td>
                                                 <td>Trevor Baker</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    trevorbaker@gmail.com
                                                 </td>
-                                                <td><span class="badge bg-label-info me-1">Scheduled</span></td>
+                                                <td><span class="badge bg-label-info me-1">96457814</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
@@ -188,35 +104,7 @@ const TeleOperateurs = () => {
                                                 </td>
                                                 <td>Jerry Milton</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    jerrymilton@gmail.com
                                                 </td>
                                                 <td><span class="badge bg-label-warning me-1">Pending</span></td>
                                                 <td>

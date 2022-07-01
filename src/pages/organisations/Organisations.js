@@ -33,45 +33,20 @@ const Organisations = () => {
                                         <tbody>
                                             <tr>
                                                 <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>1</strong></td>
-                                                <td>Albert Cook</td>
+                                                <td>Organisation 1</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Albert Cook
                                                 </td>
-                                                <td><span class="badge bg-label-primary me-1">Active</span></td>
+                                                <td><span class="badge bg-label-primary me-1">Agoè Assiyéyé</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
                                                             <i class="bx bx-dots-vertical-rounded"></i>
                                                         </button>
                                                         <div class="dropdown-menu">
+                                                            <a class="dropdown-item" href="javascript:void(0);"
+                                                            ><i class="bx bx-edit-alt me-1"></i> Détails</a
+                                                            >
                                                             <a class="dropdown-item" href="javascript:void(0);"
                                                             ><i class="bx bx-edit-alt me-1"></i> Editer</a
                                                             >
@@ -84,45 +59,20 @@ const Organisations = () => {
                                             </tr>
                                             <tr>
                                                 <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>2</strong></td>
-                                                <td>Barry Hunter</td>
+                                                <td>Organisation 2</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Barry Hunter
                                                 </td>
-                                                <td><span class="badge bg-label-success me-1">Completed</span></td>
+                                                <td><span class="badge bg-label-success me-1">Adidogomé</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
                                                             <i class="bx bx-dots-vertical-rounded"></i>
                                                         </button>
                                                         <div class="dropdown-menu">
+                                                            <a class="dropdown-item" href="javascript:void(0);"
+                                                            ><i class="bx bx-edit-alt me-1"></i> Détails</a
+                                                            >
                                                             <a class="dropdown-item" href="javascript:void(0);"
                                                             ><i class="bx bx-edit-alt me-1"></i> Editer</a
                                                             >
@@ -135,45 +85,20 @@ const Organisations = () => {
                                             </tr>
                                             <tr>
                                                 <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>3</strong></td>
-                                                <td>Trevor Baker</td>
+                                                <td>Organsiation 3</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Trevor Baker
                                                 </td>
-                                                <td><span class="badge bg-label-info me-1">Scheduled</span></td>
+                                                <td><span class="badge bg-label-info me-1">Sogocito</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
                                                             <i class="bx bx-dots-vertical-rounded"></i>
                                                         </button>
                                                         <div class="dropdown-menu">
+                                                            <a class="dropdown-item" href="javascript:void(0);"
+                                                            ><i class="bx bx-edit-alt me-1"></i> Détails</a
+                                                            >
                                                             <a class="dropdown-item" href="javascript:void(0);"
                                                             ><i class="bx bx-edit-alt me-1"></i> Editer</a
                                                             >
@@ -188,45 +113,20 @@ const Organisations = () => {
                                                 <td>
                                                     <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>4</strong>
                                                 </td>
-                                                <td>Jerry Milton</td>
+                                                <td>Organsiation 4</td>
                                                 <td>
-                                                    <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Lilian Fuller"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Sophia Wilkerson"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                        <li
-                                                            data-bs-toggle="tooltip"
-                                                            data-popup="tooltip-custom"
-                                                            data-bs-placement="top"
-                                                            class="avatar avatar-xs pull-up"
-                                                            title="Christina Parker"
-                                                        >
-                                                            <img src="assets/admin/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                                                        </li>
-                                                    </ul>
+                                                    Jerry Milton
                                                 </td>
-                                                <td><span class="badge bg-label-warning me-1">Pending</span></td>
+                                                <td><span class="badge bg-label-warning me-1">Logopé</span></td>
                                                 <td>
                                                     <div class="dropdown">
                                                         <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
                                                             <i class="bx bx-dots-vertical-rounded"></i>
                                                         </button>
                                                         <div class="dropdown-menu">
+                                                            <a class="dropdown-item" href="javascript:void(0);"
+                                                            ><i class="bx bx-edit-alt me-1"></i> Détails</a
+                                                            >
                                                             <a class="dropdown-item" href="javascript:void(0);"
                                                             ><i class="bx bx-edit-alt me-1"></i> Editer</a
                                                             >

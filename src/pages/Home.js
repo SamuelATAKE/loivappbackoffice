@@ -24,6 +24,7 @@ const Home = () => {
                                                     <p className="mb-4">
                                                         Asssigner un dossier à une organisation ou constituez-en un en rejoignant le chat
                                                     </p>
+                                                    <p className="mb-4">ou...</p>
 
                                                     <a href="/#" className="btn btn-sm btn-outline-primary">Aller au chat</a>
                                                 </div>
@@ -68,13 +69,11 @@ const Home = () => {
                                                             </button>
                                                             <div className="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt3">
                                                                 <a className="dropdown-item" href="/#">Voir plus</a>
-                                                                <a className="dropdown-item" href="/#">Supprimer</a>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <span className="fw-semibold d-block mb-1">Profit</span>
-                                                    <h3 className="card-title mb-2">$12,628</h3>
-                                                    <small className="text-success fw-semibold"><i className="bx bx-up-arrow-alt"></i> +72.80%</small>
+                                                    <span className="fw-semibold d-block mb-1">Utilisateurs</span>
+                                                    <h3 className="card-title mb-2">126</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -102,20 +101,18 @@ const Home = () => {
                                                             </button>
                                                             <div className="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt6">
                                                                 <a className="dropdown-item" href="/#">Voir plus</a>
-                                                                <a className="dropdown-item" href="/#">Supprimer</a>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <span>Sales</span>
-                                                    <h3 className="card-title text-nowrap mb-1">$4,679</h3>
-                                                    <small className="text-success fw-semibold"><i className="bx bx-up-arrow-alt"></i> +28.42%</small>
+                                                    <span>Dénonciations</span>
+                                                    <h3 className="card-title text-nowrap mb-1">46</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div className="col-12 col-lg-8 order-2 order-md-3 order-lg-2 mb-4">
+                                {/* <div className="col-12 col-lg-8 order-2 order-md-3 order-lg-2 mb-4">
                                     <div className="card">
                                         <div className="row row-bordered g-0">
                                             <div className="col-md-8">
@@ -258,6 +255,7 @@ const Home = () => {
                                         </div>
                                     </div>
                                 </div>
+                             */}
                             </div>
                         </div>
                         {/* footer  */}

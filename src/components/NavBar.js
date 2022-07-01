@@ -41,7 +41,7 @@ const NavBar = () => {
                                     <div className="d-flex">
                                         <div className="flex-shrink-0 me-3">
                                             <div className="avatar avatar-online">
-                                                <img src="assets/admin/img/avatars/1.png" alt="Avatar2" className="w-px-40 h-auto rounded-circle" />
+                                                <img src="assets/admin/img/avatars/8.png" alt="Avatar2" className="w-px-40 h-auto rounded-circle" />
                                             </div>
                                         </div>
                                         <div className="flex-grow-1">
